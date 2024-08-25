@@ -1,1 +1,2 @@
 # Supermarket-Product-Management-System
+    The "Supermarket Product Management System" is a Python-based application designed to streamline the management of supermarket inventory and sales operations. This system enables efficient tracking and processing of products, from adding itemsto a virtual cart to managing stock levels and generating sales reports. By integrating with a MySQL database, the system ensures accurate and up-to-date information on product availability, pricing, and sales performance, making it an essential tool for supermarket management.
